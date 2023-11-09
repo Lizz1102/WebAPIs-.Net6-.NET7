@@ -1,0 +1,167 @@
+# Ignore Visual Studio files
+.vscode/
+.vs/
+bin/
+obj/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore NuGet Packages
+*.nuget.props
+*.nuget.targets
+packages/
+*.lock.json
+!PackageReference.csproj
+
+# Ignore project-specific files
+*.userprefs
+*.suo
+*.user
+*.sln.docstates
+
+# Ignore build and publish output
+bin/
+obj/
+publish/
+
+# Ignore .NET build folders
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio files
+*.pdb
+*.idb
+*.ipdb
+*.suo
+*.sln.iml
+*.ipch
+*.sbr
+*.sdf
+*.opensdf
+*.cachefile
+*.VC.db
+*.VC.VC.opendb
+*.suo
+*.user
+*.sln.docstates
+
+# Rider files
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+*.user
+*.suo
+*.user
+*.suo
+*.user
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+.project/
+.settings/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+*.mst
+*.dll
+
+# Windows shortcuts
+*.lnk
+
+# JetBrains Rider
+.idea/
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.suo
+*.user
+*.suo
+*.user
+*.suo
+*.user
+
+# Rider
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+*.user
+*.suo
+*.user
+*.suo
+*.user
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+.project/
+.settings/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+*.mst
+*.dll
+
+# Windows shortcuts
+*.lnk
+
+# Rider
+.idea/
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
