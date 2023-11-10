@@ -11,17 +11,18 @@ Keeping the references/notes for myself, or anyone who wants to revisit related 
 <details>
   <summary>HTTP</summary>
   <p>
-    &emsp;&emsp;- [HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+    &emsp;&emsp;- <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Status" target="_blank">HTTP response status codes</a>
   </p>
 
   <p>
-    &emsp;&emsp;- [Guide To HTTP/3 & QUIC + HTTP/1.1 vs HTTP/2 vs HTTP/3](https://www.debugbear.com/blog/http3-quic-protocol-guide)
+    &emsp;&emsp;- <a href="https://www.debugbear.com/blog/http3-quic-protocol-guide" target="_blank">Guide To HTTP/3 & QUIC + HTTP/1.1 vs HTTP/2 vs HTTP/3</a>
   </p>
 
   <p>
-    &emsp;&emsp;- [HTTP/1.1 Original Specification](https://datatracker.ietf.org/doc/html/rfc2616)
+    &emsp;&emsp;- <a href="https://datatracker.ietf.org/doc/html/rfc2616" target="_blank">HTTP/1.1 Original Specification</a>
   </p>
 </details>
+
 
 <details>
   <summary>REST</summary>
