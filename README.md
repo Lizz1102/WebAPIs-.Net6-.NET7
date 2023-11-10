@@ -27,10 +27,10 @@ Keeping the references/notes for myself, or anyone who wants to revisit related 
   <summary>REST</summary>
   <ul>
     <li>
-      &emsp;&emsp;REST is a design concept.
+      REST is a design concept.
     </li>
     <li>
-      &emsp;&emsp;Rest builds on the foundation of HTTP, utilizing its methods, URIs, status codes, and other features to create a scalable and standardized architecture for building web APIs. The principles of REST are designed to align with the capabilities and characteristics of the HTTP protocol.
+      Rest builds on the foundation of HTTP, utilizing its methods, URIs, status codes, and other features to create a scalable and standardized architecture for building web APIs. The principles of REST are designed to align with the capabilities and characteristics of the HTTP protocol.
     </li>
   </ul>
 </details>
