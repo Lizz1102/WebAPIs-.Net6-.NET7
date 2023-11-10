@@ -29,7 +29,7 @@ Keeping the references/notes for myself, or anyone who wants to revisit related 
 
 
 <details>
-      <summary>Title 1</summary>
+      <summary>Title</summary>
       <p>
            Content 1 Content 1 Content 1 Content 1 Content 1
       </p>
@@ -48,27 +48,16 @@ Keeping the references/notes for myself, or anyone who wants to revisit related 
 
 
 <details>
-      <summary>Minimal APIs</summary>
-      <p>
-           ASP.NET 6 introduces Minimal APIs, a lightweight approach to building APIs with less boilerplate code. If we uncheck **Use controllers** checkbox while creating a new project using **ASP.NET Core Web API** template, then the template doesn't create any Controllers. Minimal APIs make it easy to quickly write smaller, faster microservices. For microservices or serverless architectures where we might have small, focused APIs, minimal APIs provide a lightweight way to define these APIs without unnecessary overhead. When you have APIs with a single, focused purpose (e.g., exposing a specific functionality or data), minimal APIs can be a good fit. Use minimal APIs for quick prototyping, testing, or building temporary APIs to validate ideas.           
-      </p>
-</details>
-
-
-<details>
   <summary>Minimal APIs</summary>
   <p>
-    <strong>Introduction to Minimal APIs</strong><br>
     ASP.NET 6 introduces Minimal APIs, offering a lightweight approach to building APIs with reduced boilerplate code. Unlike the traditional ASP.NET Core Web API template, if the <strong>Use controllers</strong> checkbox is unchecked during project creation, no controllers are generated. This feature caters to developers aiming to minimize unnecessary components.
   </p>
   
   <p>
-    <strong>Benefits of Minimal APIs</strong><br>
     Minimal APIs simplify the process of developing smaller, faster microservices. In scenarios where a microservices or serverless architecture demands small, focused APIs, minimal APIs eliminate unnecessary overhead. They are particularly suitable for APIs with a single, well-defined purpose, providing an efficient way to define such APIs.
   </p>
 
   <p>
-    <strong>Use Cases for Minimal APIs</strong><br>
     Consider leveraging minimal APIs for quick prototyping, testing, or the creation of temporary APIs to validate ideas. Their lightweight nature makes them well-suited for scenarios where a rapid development cycle and minimal setup are essential.
   </p>
 </details>
