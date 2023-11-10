@@ -35,47 +35,35 @@ Keeping the references/notes for myself, or anyone who wants to revisit related 
     &emsp;&emsp;- Rest builds on the foundation of HTTP, utilizing its methods, URIs, status codes, and other features to create a scalable and standardized architecture for building web APIs. The principles of REST are designed to align with the capabilities and characteristics of the HTTP protocol.
   </p>
 
-  <p>
-    &emsp;&emsp;- <details>
-    <summary>More on: REST is built on top of HTTP</summary>
+  <details>
+  <summary>More on: REST is built on top of HTTP</summary>
 
-    - REST (Representational State Transfer) is closely related to HTTP (Hypertext Transfer Protocol). In fact, RESTful APIs commonly leverage the principles and concepts of HTTP. Here are some key connections between REST and HTTP:
+  **HTTP Methods (Verbs):**
+    REST relies on standard HTTP methods (verbs) for interactions with resources. The primary methods used in RESTful APIs are GET (retrieve), POST (create), PUT (update/replace), PATCH (partially update), and DELETE (delete).
 
-    - HTTP Methods (Verbs):
+  **Uniform Resource Identifier (URI):**
+    RESTful APIs use URIs to identify resources. URIs are the paths that clients use to access and manipulate resources. For example, /users might represent a collection of users, and /users/123 might represent a specific user with ID 123.
 
-      - REST relies on standard HTTP methods (verbs) for interactions with resources. The primary methods used in RESTful APIs are GET (retrieve), POST (create), PUT (update/replace), PATCH (partially update), and DELETE (delete).
+  **HTTP Status Codes:**
+    HTTP status codes are used to indicate the result of a client's request. RESTful APIs return status codes such as 200 (OK), 201 (Created), 404 (Not Found), and 500 (Internal Server Error) to convey the outcome of operations.
 
-    - Uniform Resource Identifier (URI):
+  **Statelessness:**
+    REST adheres to the statelessness constraint, meaning each request from a client to a server must contain all the information needed to understand and fulfill the request. The server does not store the client's state between requests.
 
-      - RESTful APIs use URIs to identify resources. URIs are the paths that clients use to access and manipulate resources. For example, /users might represent a collection of users, and /users/123 might represent a specific user with ID 123.
+  **Representation Formats:**
+    REST commonly uses standard data representation formats, such as JSON or XML, for exchanging information between clients and servers. These formats are specified in the HTTP headers (e.g., Content-Type).
 
-    - HTTP Status Codes:
+  **HATEOAS (Hypermedia As The Engine Of Application State):**
+    HATEOAS is a constraint in REST that uses hypermedia links in the response to enable clients to discover and navigate to related resources. Links are embedded in the representation, guiding clients on what actions are possible.
 
-      - HTTP status codes are used to indicate the result of a client's request. RESTful APIs return status codes such as 200 (OK), 201 (Created), 404 (Not Found), and 500 (Internal Server Error) to convey the outcome of operations.
+  **Cacheability:**
+    HTTP provides mechanisms for caching, and RESTful APIs often leverage caching to improve performance. Cache-related headers, like Cache-Control, can be used to control caching behavior.
 
-    - Statelessness:
+  **Content Negotiation:**
+    Content negotiation, facilitated by HTTP headers such as Accept and Content-Type, allows clients and servers to agree on the format of the representation data (e.g., JSON or XML).
 
-      - REST adheres to the statelessness constraint, meaning each request from a client to a server must contain all the information needed to understand and fulfill the request. The server does not store the client's state between requests.
+</details>
 
-    - Representation Formats:
-
-      - REST commonly uses standard data representation formats, such as JSON or XML, for exchanging information between clients and servers. These formats are specified in the HTTP headers (e.g., Content-Type).
-
-    - HATEOAS (Hypermedia As The Engine Of Application State):
-
-      - HATEOAS is a constraint in REST that uses hypermedia links in the response to enable clients to discover and navigate to related resources. Links are embedded in the representation, guiding clients on what actions are possible.
-
-    - Cacheability:
-
-      - HTTP provides mechanisms for caching, and RESTful APIs often leverage caching to improve performance. Cache-related headers, like Cache-Control, can be used to control caching behavior.
-
-    - Content Negotiation:
-
-      - Content negotiation, facilitated by HTTP headers such as Accept and Content-Type, allows clients and servers to agree on the format of the representation data (e.g., JSON or XML).
-
-  </details>
-
-  </p>
 </details>
 
 
