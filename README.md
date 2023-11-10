@@ -30,6 +30,13 @@ Keeping the references/notes for myself, or anyone who wants to revisit related 
   <p>&emsp;&emsp;- REST is a design concept.</p>
   
   <p>&emsp;&emsp;- Rest builds on the foundation of HTTP, utilizing its methods, URIs, status codes, and other features to create a scalable and standardized architecture for building web APIs. The principles of REST are designed to align with the capabilities and characteristics of the HTTP protocol.</p>
+
+   <p>&emsp;&emsp;- Uses URIs to access resources.</p>
+
+   <p>&emsp;&emsp;- Uses HTTP verbs for operations.</p>
+   <p>
+    &emsp;&emsp;- <a href="https://restfulapi.net/rest-architectural-constraints/">REST Architectural Constraints</a>
+  </p>
 </details>
 
 
