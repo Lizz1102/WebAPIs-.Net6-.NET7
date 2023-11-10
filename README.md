@@ -32,7 +32,7 @@ Keeping the references/notes for myself, or anyone who wants to revisit related 
   - Rest builds on the foundation of HTTP, utilizing its methods, URIs, status codes, and other features to create a scalable and standardized architecture for building web APIs. The principles of REST are designed to align with the capabilities and characteristics of the HTTP protocol.
 
   <details>
-    <summary>Details on how REST is built on top of HTTP</summary>
+    <summary>&emsp;&emsp;More on: REST is built on top of HTTP</summary>
 
     - REST (Representational State Transfer) is closely related to HTTP (Hypertext Transfer Protocol). In fact, RESTful APIs commonly leverage the principles and concepts of HTTP. Here are some key connections between REST and HTTP:
 
