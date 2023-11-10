@@ -1,5 +1,5 @@
 # WebAPIs: .NET Core(.Net6,.NET7)
-Exploring Web APIs with C# in .NET 6 and .NET 7 Core SDK versions 
+Exploring new features of Web APIs with C# in .NET Core (.NET 6 and .NET 7 SDK versions). 
 
   
 ## Observations: Improvements/What's New in .NET 6
