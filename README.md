@@ -26,83 +26,48 @@ Keeping the references/notes for myself, or anyone who wants to revisit related 
 
 <details>
   <summary>REST</summary>
-  <p>
-    &emsp;&emsp;- REST is a design concept.
-  </p>
 
-  <p>
-    &emsp;&emsp;- Rest builds on the foundation of HTTP, utilizing its methods, URIs, status codes, and other features to create a scalable and standardized architecture for building web APIs. The principles of REST are designed to align with the capabilities and characteristics of the HTTP protocol.
-  </p>
+  - REST is a design concept.
+  
+  - Rest builds on the foundation of HTTP, utilizing its methods, URIs, status codes, and other features to create a scalable and standardized architecture for building web APIs. The principles of REST are designed to align with the capabilities and characteristics of the HTTP protocol.
 
   <details>
     <summary>Details on how REST is built on top of HTTP</summary>
-    <p>
-      &emsp;&emsp;- REST (Representational State Transfer) is closely related to HTTP (Hypertext Transfer Protocol). In fact, RESTful APIs commonly leverage the principles and concepts of HTTP. Here are some key connections between REST and HTTP:
-    </p>
 
-    <p>
-      &emsp;&emsp;&emsp;&emsp;HTTP Methods (Verbs):
-    </p>
+    - REST (Representational State Transfer) is closely related to HTTP (Hypertext Transfer Protocol). In fact, RESTful APIs commonly leverage the principles and concepts of HTTP. Here are some key connections between REST and HTTP:
 
-    <p>
-      &emsp;&emsp;&emsp;&emsp;REST relies on standard HTTP methods (verbs) for interactions with resources. The primary methods used in RESTful APIs are GET (retrieve), POST (create), PUT (update/replace), PATCH (partially update), and DELETE (delete).
-    </p>
+    - HTTP Methods (Verbs):
 
-    <p>
-      &emsp;&emsp;&emsp;&emsp;Uniform Resource Identifier (URI):
-    </p>
+      - REST relies on standard HTTP methods (verbs) for interactions with resources. The primary methods used in RESTful APIs are GET (retrieve), POST (create), PUT (update/replace), PATCH (partially update), and DELETE (delete).
 
-    <p>
-      &emsp;&emsp;&emsp;&emsp;RESTful APIs use URIs to identify resources. URIs are the paths that clients use to access and manipulate resources. For example, /users might represent a collection of users, and /users/123 might represent a specific user with ID 123.
-    </p>
+    - Uniform Resource Identifier (URI):
 
-    <p>
-      &emsp;&emsp;&emsp;&emsp;HTTP Status Codes:
-    </p>
+      - RESTful APIs use URIs to identify resources. URIs are the paths that clients use to access and manipulate resources. For example, /users might represent a collection of users, and /users/123 might represent a specific user with ID 123.
 
-    <p>
-      &emsp;&emsp;&emsp;&emsp;HTTP status codes are used to indicate the result of a client's request. RESTful APIs return status codes such as 200 (OK), 201 (Created), 404 (Not Found), and 500 (Internal Server Error) to convey the outcome of operations.
-    </p>
+    - HTTP Status Codes:
 
-    <p>
-      &emsp;&emsp;&emsp;&emsp;Statelessness:
-    </p>
+      - HTTP status codes are used to indicate the result of a client's request. RESTful APIs return status codes such as 200 (OK), 201 (Created), 404 (Not Found), and 500 (Internal Server Error) to convey the outcome of operations.
 
-    <p>
-      &emsp;&emsp;&emsp;&emsp;REST adheres to the statelessness constraint, meaning each request from a client to a server must contain all the information needed to understand and fulfill the request. The server does not store the client's state between requests.
-    </p>
+    - Statelessness:
 
-    <p>
-      &emsp;&emsp;&emsp;&emsp;Representation Formats:
-    </p>
+      - REST adheres to the statelessness constraint, meaning each request from a client to a server must contain all the information needed to understand and fulfill the request. The server does not store the client's state between requests.
 
-    <p>
-      &emsp;&emsp;&emsp;&emsp;REST commonly uses standard data representation formats, such as JSON or XML, for exchanging information between clients and servers. These formats are specified in the HTTP headers (e.g., Content-Type).
-    </p>
+    - Representation Formats:
 
-    <p>
-      &emsp;&emsp;&emsp;&emsp;HATEOAS (Hypermedia As The Engine Of Application State):
-    </p>
+      - REST commonly uses standard data representation formats, such as JSON or XML, for exchanging information between clients and servers. These formats are specified in the HTTP headers (e.g., Content-Type).
 
-    <p>
-      &emsp;&emsp;&emsp;&emsp;HATEOAS is a constraint in REST that uses hypermedia links in the response to enable clients to discover and navigate to related resources. Links are embedded in the representation, guiding clients on what actions are possible.
-    </p>
+    - HATEOAS (Hypermedia As The Engine Of Application State):
 
-    <p>
-      &emsp;&emsp;&emsp;&emsp;Cacheability:
-    </p>
+      - HATEOAS is a constraint in REST that uses hypermedia links in the response to enable clients to discover and navigate to related resources. Links are embedded in the representation, guiding clients on what actions are possible.
 
-    <p>
-      &emsp;&emsp;&emsp;&emsp;HTTP provides mechanisms for caching, and RESTful APIs often leverage caching to improve performance. Cache-related headers, like Cache-Control, can be used to control caching behavior.
-    </p>
+    - Cacheability:
 
-    <p>
-      &emsp;&emsp;&emsp;&emsp;Content Negotiation:
-    </p>
+      - HTTP provides mechanisms for caching, and RESTful APIs often leverage caching to improve performance. Cache-related headers, like Cache-Control, can be used to control caching behavior.
 
-    <p>
-      &emsp;&emsp;&emsp;&emsp;Content negotiation, facilitated by HTTP headers such as Accept and Content-Type, allows clients and servers to agree on the format of the representation data (e.g., JSON or XML).
-    </p>
+    - Content Negotiation:
+
+      - Content negotiation, facilitated by HTTP headers such as Accept and Content-Type, allows clients and servers to agree on the format of the representation data (e.g., JSON or XML).
+
   </details>
 </details>
 
