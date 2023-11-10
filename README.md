@@ -40,6 +40,19 @@ Keeping the references/notes for myself, or anyone who wants to revisit related 
 </details>
 
 
+<details>
+    <summary>Verbs</summary>
+  
+    <p>&emsp;&emsp;- <strong>HTTP methods, also known as verbs, define the actions that can be performed on resources.</strong></p>
+    <p>&emsp;&emsp;- <strong>GET:</strong> Uses URIs to retrieve a resource or a collection of resources.</p>
+    <p>&emsp;&emsp;- <strong>POST:</strong> Uses URIs to create a new resource.</p>
+    <p>&emsp;&emsp;- <strong>PUT or PATCH:</strong> Uses URIs to update an existing resource.</p>
+    <p>&emsp;&emsp;- <strong>DELETE:</strong> Uses URIs to remove a resource.</p>
+    <p>&emsp;&emsp;- <strong>Uses URIs to access resources.</strong></p>
+    <p>&emsp;&emsp;- <strong>These verbs align with the CRUD (Create, Read, Update, Delete) operations commonly associated with data manipulation.</strong></p>
+</details>
+
+
 
 <details>
       <summary>Title</summary>
