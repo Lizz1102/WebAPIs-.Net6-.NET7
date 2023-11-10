@@ -39,7 +39,7 @@ Keeping the references/notes for myself, or anyone who wants to revisit related 
   <summary>More on: REST is built on top of HTTP</summary>
 
   &emsp;&emsp;&emsp;&emsp;**HTTP Methods (Verbs):**  
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;REST relies on standard HTTP methods (verbs) for interactions with resources. The primary methods used in RESTful APIs are GET (retrieve), POST (create), PUT (update/replace), PATCH (partially update), and DELETE (delete).
+  &emsp;&emsp;&emsp;&emsp;REST relies on standard HTTP methods (verbs) for interactions with resources. The primary methods used in RESTful APIs are GET (retrieve), POST (create), PUT (update/replace), PATCH (partially update), and DELETE (delete).
 
   &emsp;&emsp;&emsp;&emsp;**Uniform Resource Identifier (URI):**  
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;RESTful APIs use URIs to identify resources. URIs are the paths that clients use to access and manipulate resources. For example, /users might represent a collection of users, and /users/123 might represent a specific user with ID 123.
