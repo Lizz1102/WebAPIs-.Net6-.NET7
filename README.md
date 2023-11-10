@@ -36,31 +36,31 @@ Keeping the references/notes for myself, or anyone who wants to revisit related 
   </p>
 
   <details>
-  <summary>More on: REST is built on top of HTTP</summary>
+  <summary>&emsp;&emsp;More on: REST is built on top of HTTP</summary>
 
-  **HTTP Methods (Verbs):**
-    REST relies on standard HTTP methods (verbs) for interactions with resources. The primary methods used in RESTful APIs are GET (retrieve), POST (create), PUT (update/replace), PATCH (partially update), and DELETE (delete).
+  &emsp;&emsp;&emsp;&emsp;**HTTP Methods (Verbs):**
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;REST relies on standard HTTP methods (verbs) for interactions with resources. The primary methods used in RESTful APIs are GET (retrieve), POST (create), PUT (update/replace), PATCH (partially update), and DELETE (delete).
 
-  **Uniform Resource Identifier (URI):**
-    RESTful APIs use URIs to identify resources. URIs are the paths that clients use to access and manipulate resources. For example, /users might represent a collection of users, and /users/123 might represent a specific user with ID 123.
+  &emsp;&emsp;&emsp;&emsp;**Uniform Resource Identifier (URI):**
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;RESTful APIs use URIs to identify resources. URIs are the paths that clients use to access and manipulate resources. For example, /users might represent a collection of users, and /users/123 might represent a specific user with ID 123.
 
-  **HTTP Status Codes:**
-    HTTP status codes are used to indicate the result of a client's request. RESTful APIs return status codes such as 200 (OK), 201 (Created), 404 (Not Found), and 500 (Internal Server Error) to convey the outcome of operations.
+  &emsp;&emsp;&emsp;&emsp;**HTTP Status Codes:**
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;HTTP status codes are used to indicate the result of a client's request. RESTful APIs return status codes such as 200 (OK), 201 (Created), 404 (Not Found), and 500 (Internal Server Error) to convey the outcome of operations.
 
-  **Statelessness:**
-    REST adheres to the statelessness constraint, meaning each request from a client to a server must contain all the information needed to understand and fulfill the request. The server does not store the client's state between requests.
+  &emsp;&emsp;&emsp;&emsp;**Statelessness:**
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;REST adheres to the statelessness constraint, meaning each request from a client to a server must contain all the information needed to understand and fulfill the request. The server does not store the client's state between requests.
 
-  **Representation Formats:**
-    REST commonly uses standard data representation formats, such as JSON or XML, for exchanging information between clients and servers. These formats are specified in the HTTP headers (e.g., Content-Type).
+  &emsp;&emsp;&emsp;&emsp;**Representation Formats:**
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;REST commonly uses standard data representation formats, such as JSON or XML, for exchanging information between clients and servers. These formats are specified in the HTTP headers (e.g., Content-Type).
 
-  **HATEOAS (Hypermedia As The Engine Of Application State):**
-    HATEOAS is a constraint in REST that uses hypermedia links in the response to enable clients to discover and navigate to related resources. Links are embedded in the representation, guiding clients on what actions are possible.
+  &emsp;&emsp;&emsp;&emsp;**HATEOAS (Hypermedia As The Engine Of Application State):**
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;HATEOAS is a constraint in REST that uses hypermedia links in the response to enable clients to discover and navigate to related resources. Links are embedded in the representation, guiding clients on what actions are possible.
 
-  **Cacheability:**
-    HTTP provides mechanisms for caching, and RESTful APIs often leverage caching to improve performance. Cache-related headers, like Cache-Control, can be used to control caching behavior.
+  &emsp;&emsp;&emsp;&emsp;**Cacheability:**
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;HTTP provides mechanisms for caching, and RESTful APIs often leverage caching to improve performance. Cache-related headers, like Cache-Control, can be used to control caching behavior.
 
-  **Content Negotiation:**
-    Content negotiation, facilitated by HTTP headers such as Accept and Content-Type, allows clients and servers to agree on the format of the representation data (e.g., JSON or XML).
+  &emsp;&emsp;&emsp;&emsp;**Content Negotiation:**
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Content negotiation, facilitated by HTTP headers such as Accept and Content-Type, allows clients and servers to agree on the format of the representation data (e.g., JSON or XML).
 
 </details>
 
