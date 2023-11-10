@@ -37,19 +37,6 @@ Keeping the references/notes for myself, or anyone who wants to revisit related 
 
 
 <details>
-  <summary>REST</summary>
-  <ul>
-    <li>
-      REST is a design concept.
-    </li>
-    <li>
-      Rest builds on the foundation of HTTP, utilizing its methods, URIs, status codes, and other features to create a scalable and standardized architecture for building web APIs. The principles of REST are designed to align with the capabilities and characteristics of the HTTP protocol.
-    </li>
-  </ul>
-</details>
-
-
-<details>
       <summary>Title</summary>
       <p>
            Content 1 Content 1 Content 1 Content 1 Content 1
@@ -63,7 +50,7 @@ Keeping the references/notes for myself, or anyone who wants to revisit related 
 <details>
       <summary>HTTP/3 Support</summary>
       <p>
-      &emsp;&emsp;.NET 6 includes preview support for HTTP/3. HTTP/3 solves some existing functional and performance challenges by using a new underlying connection protocol called QUIC.QUIC establishes connections more quickly, and connections are independent of the IP address, allowing mobile clients to roam between Wi-fi and cellular networks. 
+      &emsp;&emsp;- .NET 6 includes preview support for HTTP/3. HTTP/3 solves some existing functional and performance challenges by using a new underlying connection protocol called QUIC.QUIC establishes connections more quickly, and connections are independent of the IP address, allowing mobile clients to roam between Wi-fi and cellular networks. 
       </p>
 </details>
 
@@ -71,15 +58,15 @@ Keeping the references/notes for myself, or anyone who wants to revisit related 
 <details>
   <summary>Minimal APIs</summary>
   <p>
-    &emsp;&emsp;ASP.NET 6 introduces Minimal APIs, offering a lightweight approach to building APIs with reduced boilerplate code. Unlike the traditional ASP.NET Core Web API template, if the <strong>Use controllers</strong> checkbox is unchecked during project creation, no controllers are generated. This feature caters to developers aiming to minimize unnecessary components.
+    &emsp;&emsp;- ASP.NET 6 introduces Minimal APIs, offering a lightweight approach to building APIs with reduced boilerplate code. Unlike the traditional ASP.NET Core Web API template, if the <strong>Use controllers</strong> checkbox is unchecked during project creation, no controllers are generated. This feature caters to developers aiming to minimize unnecessary components.
   </p>
   
   <p>
-    &emsp;&emsp;Minimal APIs simplify the process of developing smaller, faster microservices. In scenarios where a microservices or serverless architecture demands small, focused APIs, minimal APIs eliminate unnecessary overhead. They are particularly suitable for APIs with a single, well-defined purpose, providing an efficient way to define such APIs.
+    &emsp;&emsp;- Minimal APIs simplify the process of developing smaller, faster microservices. In scenarios where a microservices or serverless architecture demands small, focused APIs, minimal APIs eliminate unnecessary overhead. They are particularly suitable for APIs with a single, well-defined purpose, providing an efficient way to define such APIs.
   </p>
 
   <p>
-    &emsp;&emsp;Consider leveraging minimal APIs for quick prototyping, testing, or the creation of temporary APIs to validate ideas. Their lightweight nature makes them well-suited for scenarios where a rapid development cycle and minimal setup are essential.
+    &emsp;&emsp;- Consider leveraging minimal APIs for quick prototyping, testing, or the creation of temporary APIs to validate ideas. Their lightweight nature makes them well-suited for scenarios where a rapid development cycle and minimal setup are essential.
   </p>
 </details>
 
