@@ -2,7 +2,21 @@
 Exploring Web APIs with C# in .NET 6 and .NET 7 Core SDK versions 
 
   
-## Background
+## Observations: Improvements/What's New in .NET 6
+
+
+**minimal APIs**: ASP.NET 6 introduces Minimal APIs, a lightweight approach to building APIs with less boilerplate code. 
+
+
+If we uncheck **Use controllers** checkbox while creating a new project using **ASP.NET Core Web API** template, then the template doesn't create any Controllers. 
+
+
+Minimal APIs make it easy to quickly write smaller, faster microservices. For microservices or serverless architectures where we might have small, focused APIs, minimal APIs provide a lightweight way to define these APIs without unnecessary overhead. When you have APIs with a single, focused purpose (e.g., exposing a specific functionality or data), minimal APIs can be a good fit. Use minimal APIs for quick prototyping, testing, or building temporary APIs to validate ideas.
+
+
+
+
+
 
 
 ## TODOs
