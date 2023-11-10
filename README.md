@@ -12,9 +12,9 @@ Keeping the references/notes for myself, or anyone who wants to revisit related 
 <details>
       <summary>HTTP</summary>
       <p>
-           - [HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
-           - [A Comprehensive Guide To HTTP/3 And QUIC + HTTP/1.1 vs HTTP/2 vs HTTP/3](https://www.debugbear.com/blog/http3-quic-protocol-guide)
-           - [HTTP/1.1 Original Specification](https://datatracker.ietf.org/doc/html/rfc2616)
+           &emsp;&emsp;- [HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+           &emsp;&emsp;- [A Comprehensive Guide To HTTP/3 And QUIC + HTTP/1.1 vs HTTP/2 vs HTTP/3](https://www.debugbear.com/blog/http3-quic-protocol-guide)
+           &emsp;&emsp;- [HTTP/1.1 Original Specification](https://datatracker.ietf.org/doc/html/rfc2616)
       </p>
 </details>
 
@@ -22,8 +22,8 @@ Keeping the references/notes for myself, or anyone who wants to revisit related 
 <details>
      <summary>REST</summary>
      <p>
-       - REST is a design concept. 
-       - Rest builds on the foundation of HTTP, utilizing its methods, URIs, status codes, and other features to create a scalable and standardized architecture for building web APIs. The principles of REST are designed to align with the capabilities and characteristics of the HTTP protocol.
+       &emsp;&emsp;- REST is a design concept. 
+       &emsp;&emsp;- Rest builds on the foundation of HTTP, utilizing its methods, URIs, status codes, and other features to create a scalable and standardized architecture for building web APIs. The principles of REST are designed to align with the capabilities and characteristics of the HTTP protocol.
      </p>
 </details>
 
@@ -42,10 +42,7 @@ Keeping the references/notes for myself, or anyone who wants to revisit related 
 <details>
       <summary>HTTP/3 Support</summary>
       <p>
-      &emsp;&emsp;.NET 6 includes preview support for HTTP/3. HTTP/3 solves some existing functional and performance challenges by using a new underlying &emsp;&emsp;connection protocol called QUIC.QUIC establishes connections more quickly, and connections are independent of the IP address, allowing mobile clients &emsp;&emsp;to roam between Wi-fi and cellular networks. 
-      </p>
-      <p>
-            &emsp;&emsp; QUIC establishes connections more quickly, and connections are independent of the IP address, allowing mobile clients to roam between Wi-fi and cellular networks.
+      &emsp;&emsp;.NET 6 includes preview support for HTTP/3. HTTP/3 solves some existing functional and performance challenges by using a new underlying connection protocol called QUIC.QUIC establishes connections more quickly, and connections are independent of the IP address, allowing mobile clients to roam between Wi-fi and cellular networks. 
       </p>
 </details>
 
@@ -57,11 +54,11 @@ Keeping the references/notes for myself, or anyone who wants to revisit related 
   </p>
   
   <p>
-    Minimal APIs simplify the process of developing smaller, faster microservices. In scenarios where a microservices or serverless architecture demands small, focused APIs, minimal APIs eliminate unnecessary overhead. They are particularly suitable for APIs with a single, well-defined purpose, providing an efficient way to define such APIs.
+    &emsp;&emsp;Minimal APIs simplify the process of developing smaller, faster microservices. In scenarios where a microservices or serverless architecture demands small, focused APIs, minimal APIs eliminate unnecessary overhead. They are particularly suitable for APIs with a single, well-defined purpose, providing an efficient way to define such APIs.
   </p>
 
   <p>
-    Consider leveraging minimal APIs for quick prototyping, testing, or the creation of temporary APIs to validate ideas. Their lightweight nature makes them well-suited for scenarios where a rapid development cycle and minimal setup are essential.
+    &emsp;&emsp;Consider leveraging minimal APIs for quick prototyping, testing, or the creation of temporary APIs to validate ideas. Their lightweight nature makes them well-suited for scenarios where a rapid development cycle and minimal setup are essential.
   </p>
 </details>
 
