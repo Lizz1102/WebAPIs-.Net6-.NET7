@@ -56,6 +56,25 @@ Keeping the references/notes for myself, or anyone who wants to revisit related 
 
 
 <details>
+  <summary>Minimal APIs</summary>
+  <p>
+    <strong>Introduction to Minimal APIs</strong><br>
+    ASP.NET 6 introduces Minimal APIs, offering a lightweight approach to building APIs with reduced boilerplate code. Unlike the traditional ASP.NET Core Web API template, if the <strong>Use controllers</strong> checkbox is unchecked during project creation, no controllers are generated. This feature caters to developers aiming to minimize unnecessary components.
+  </p>
+  
+  <p>
+    <strong>Benefits of Minimal APIs</strong><br>
+    Minimal APIs simplify the process of developing smaller, faster microservices. In scenarios where a microservices or serverless architecture demands small, focused APIs, minimal APIs eliminate unnecessary overhead. They are particularly suitable for APIs with a single, well-defined purpose, providing an efficient way to define such APIs.
+  </p>
+
+  <p>
+    <strong>Use Cases for Minimal APIs</strong><br>
+    Consider leveraging minimal APIs for quick prototyping, testing, or the creation of temporary APIs to validate ideas. Their lightweight nature makes them well-suited for scenarios where a rapid development cycle and minimal setup are essential.
+  </p>
+</details>
+
+
+<details>
       <summary>Title</summary>
       <p>
            Content 1 Content 1 Content 1 Content 1 Content 1
