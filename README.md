@@ -36,10 +36,7 @@ Keeping the references/notes for myself, or anyone who wants to revisit related 
   </p>
 
   <p>
-    &emsp;&emsp;- REST is a design concept.
-  </p>
-  
-  <details>
+    &emsp;&emsp;- <details>
     <summary>More on: REST is built on top of HTTP</summary>
 
     - REST (Representational State Transfer) is closely related to HTTP (Hypertext Transfer Protocol). In fact, RESTful APIs commonly leverage the principles and concepts of HTTP. Here are some key connections between REST and HTTP:
@@ -77,6 +74,8 @@ Keeping the references/notes for myself, or anyone who wants to revisit related 
       - Content negotiation, facilitated by HTTP headers such as Accept and Content-Type, allows clients and servers to agree on the format of the representation data (e.g., JSON or XML).
 
   </details>
+
+  </p>
 </details>
 
 
