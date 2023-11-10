@@ -42,7 +42,7 @@ Keeping the references/notes for myself, or anyone who wants to revisit related 
 <details>
       <summary>HTTP/3 Support</summary>
       <p>
-      &emsp;&emsp;.NET 6 includes preview support for HTTP/3. HTTP/3 solves some existing functional and performance challenges by using a new underlying connection protocol called QUIC. 
+      &emsp;&emsp;.NET 6 includes preview support for HTTP/3. HTTP/3 solves some existing functional and performance challenges by using a new underlying &emsp;&emsp;connection protocol called QUIC.QUIC establishes connections more quickly, and connections are independent of the IP address, allowing mobile clients &emsp;&emsp;to roam between Wi-fi and cellular networks. 
       </p>
       <p>
             &emsp;&emsp; QUIC establishes connections more quickly, and connections are independent of the IP address, allowing mobile clients to roam between Wi-fi and cellular networks.
