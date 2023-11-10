@@ -53,7 +53,14 @@ Keeping the references/notes for myself, or anyone who wants to revisit related 
 </details>
 
 
+<details>
+<summary>Nouns</summary>
 
+<p>&emsp;&emsp;- In RESTful design, nouns typically represent resources. Resources are the entities or objects that your API exposes.</p>
+<p>&emsp;&emsp;- For example, in a blog application, we might have resources such as "posts," "users," or "comments."</p>
+<p>&emsp;&emsp;- Resources are identified by URLs (Uniform Resource Locators), and they are the primary entities that the API deals with.</p>
+
+</details>
 
 
 <details>
