@@ -21,7 +21,7 @@ Keeping the references/notes for myself, or anyone who wants to revisit related 
 .NET 6 includes preview support for HTTP/3. HTTP/3 solves some existing functional and performance challenges by using a new underlying connection protocol called QUIC. QUIC establishes connections more quickly, and connections are independent of the IP address, allowing mobile clients to roam between Wi-fi and cellular networks.
 
 
-**minimal APIs**: ASP.NET 6 introduces Minimal APIs, a lightweight approach to building APIs with less boilerplate code. 
+**Minimal APIs**: ASP.NET 6 introduces Minimal APIs, a lightweight approach to building APIs with less boilerplate code. 
 
 
 If we uncheck **Use controllers** checkbox while creating a new project using **ASP.NET Core Web API** template, then the template doesn't create any Controllers. 
