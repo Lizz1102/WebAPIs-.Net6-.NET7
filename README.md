@@ -15,7 +15,7 @@ Keeping the references/notes for myself, or anyone who wants to revisit related 
   </p>
 
   <p>
-    &emsp;&emsp;- <a href="https://www.debugbear.com/blog/http3-quic-protocol-guide" target="_blank">Guide To HTTP/3 & QUIC + HTTP/1.1 vs HTTP/2 vs HTTP/3</a>
+    &emsp;&emsp;- <a href="https://www.debugbear.com/blog/http3-quic-protocol-guide" target="_blank">A Comprehensive Guide To HTTP/3 and QUIC + HTTP/1.1 vs HTTP/2 vs HTTP/3</a>
   </p>
 
   <p>
