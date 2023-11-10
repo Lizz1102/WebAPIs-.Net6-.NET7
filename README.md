@@ -1,8 +1,24 @@
 # WebAPIs: .NET Core(.Net6,.NET7)
 Learning and revisiting some advanced and fundamental concepts of .NET Core Web APIs. Exploring new features of Web APIs with C# in .NET Core (.NET 6 and .NET 7 SDK versions).  
 
+
+## Notes 
+
+
+Keeping the references/notes for myself, or anyone who wants to revisit related concepts.
+
+- [HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+- [A Comprehensive Guide To HTTP/3 And QUIC + HTTP/1.1 vs HTTP/2 vs HTTP/3](https://www.debugbear.com/blog/http3-quic-protocol-guide)
+- [HTTP/1.1 Original Specification](https://datatracker.ietf.org/doc/html/rfc2616)
+
   
 ## Observations: Improvements/What's New in .NET 6
+
+
+**HTTP/3 Support**
+
+
+.NET 6 includes preview support for HTTP/3. HTTP/3 solves some existing functional and performance challenges by using a new underlying connection protocol called QUIC. QUIC establishes connections more quickly, and connections are independent of the IP address, allowing mobile clients to roam between Wi-fi and cellular networks.
 
 
 **minimal APIs**: ASP.NET 6 introduces Minimal APIs, a lightweight approach to building APIs with less boilerplate code. 
@@ -23,8 +39,8 @@ Minimal APIs make it easy to quickly write smaller, faster microservices. For mi
 
 
 - [ ] Add Endpoint Specifications  
-- [ ] Add screenshots  
-- [ ] Add background and goal section
+- [ ] Add screenshots/demo  
+- [ ] Summarize key concepts developers should know before diving into web API development
 - [ ] Future Improvements? 
 
 
