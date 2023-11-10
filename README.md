@@ -36,7 +36,7 @@ Keeping the references/notes for myself, or anyone who wants to revisit related 
   </p>
 
   <details>
-  <summary>&emsp;&emsp;More on: REST is built on top of HTTP</summary>
+  <summary>More on: REST is built on top of HTTP</summary>
 
   &emsp;&emsp;&emsp;&emsp;**HTTP Methods (Verbs):**  
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;REST relies on standard HTTP methods (verbs) for interactions with resources. The primary methods used in RESTful APIs are GET (retrieve), POST (create), PUT (update/replace), PATCH (partially update), and DELETE (delete).
