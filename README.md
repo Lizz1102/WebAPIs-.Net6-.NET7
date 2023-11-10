@@ -39,24 +39,34 @@ Keeping the references/notes for myself, or anyone who wants to revisit related 
 ## Observations: Improvements/What's New in .NET 6
 
 
-**HTTP/3 Support**
+<details>
+      <summary>HTTP/3 Support</summary>
+      <p>
+           .NET 6 includes preview support for HTTP/3. HTTP/3 solves some existing functional and performance challenges by using a new underlying connection protocol called QUIC. QUIC establishes connections more quickly, and connections are independent of the IP address, allowing mobile clients to roam between Wi-fi and cellular networks.
+      </p>
+</details>
 
 
-.NET 6 includes preview support for HTTP/3. HTTP/3 solves some existing functional and performance challenges by using a new underlying connection protocol called QUIC. QUIC establishes connections more quickly, and connections are independent of the IP address, allowing mobile clients to roam between Wi-fi and cellular networks.
+<details>
+      <summary>Title 1</summary>
+      <p>
+           ASP.NET 6 introduces Minimal APIs, a lightweight approach to building APIs with less boilerplate code. 
 
 
-**Minimal APIs**: ASP.NET 6 introduces Minimal APIs, a lightweight approach to building APIs with less boilerplate code. 
+           If we uncheck **Use controllers** checkbox while creating a new project using **ASP.NET Core Web API** template, then the template doesn't create any Controllers. 
 
 
-If we uncheck **Use controllers** checkbox while creating a new project using **ASP.NET Core Web API** template, then the template doesn't create any Controllers. 
+      Minimal APIs make it easy to quickly write smaller, faster microservices. For microservices or serverless architectures where we might have small, focused APIs, minimal APIs provide a lightweight way to define these APIs without unnecessary overhead. When you have APIs with a single, focused purpose (e.g., exposing a specific functionality or data), minimal APIs can be a good fit. Use minimal APIs for quick prototyping, testing, or building temporary APIs to validate ideas.           
+      </p>
+</details>
 
 
-Minimal APIs make it easy to quickly write smaller, faster microservices. For microservices or serverless architectures where we might have small, focused APIs, minimal APIs provide a lightweight way to define these APIs without unnecessary overhead. When you have APIs with a single, focused purpose (e.g., exposing a specific functionality or data), minimal APIs can be a good fit. Use minimal APIs for quick prototyping, testing, or building temporary APIs to validate ideas.
-
-
-
-
-
+<details>
+      <summary>Minimal APIs</summary>
+      <p>
+           Content 1 Content 1 Content 1 Content 1 Content 1
+      </p>
+</details>
 
 
 ## TODOs
