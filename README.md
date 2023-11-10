@@ -7,6 +7,16 @@ Learning and revisiting some advanced and fundamental concepts of .NET Core Web 
 
 Keeping the references/notes for myself, or anyone who wants to revisit related concepts.
 
+
+<details>
+     <summary>**REST**</summary>
+     <p>
+       - REST is a design concept. 
+       - Rest builds on the foundation of HTTP, utilizing its methods, URIs, status codes, and other features to create a scalable and standardized architecture for building web APIs. The principles of REST are designed to align with the capabilities and characteristics of the HTTP protocol.
+     </p>
+</details>
+
+
 - [HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
 - [A Comprehensive Guide To HTTP/3 And QUIC + HTTP/1.1 vs HTTP/2 vs HTTP/3](https://www.debugbear.com/blog/http3-quic-protocol-guide)
 - [HTTP/1.1 Original Specification](https://datatracker.ietf.org/doc/html/rfc2616)
