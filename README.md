@@ -71,12 +71,18 @@ Keeping the references/notes for myself, or anyone who wants to revisit related 
 </details>
 
   
-## Observations: Improvements/What's New in .NET 6
+## Observations: Incoming Changes in .NET 6
 
 
 There are no radical changes in .Net 6 structurally, most changes are focused on the simplicity and speed of building the code.
 However, knowing the incoming changes can be beneficial if we need to upgrade .Net 5 Core projects to .Net 6.
 
+
+- [Migrate from ASP.NET Core 5.0 to 6.0](https://learn.microsoft.com/en-us/aspnet/core/migration/50-to-60?view=aspnetcore-7.0&tabs=visual-studio)
+- [Why .NET 6 promotes better programming practices](https://www.youtube.com/watch?v=aSNqqZqYTk4&ab_channel=IAmTimCorey)
+
+
+Incoming changes I noticed during this project are: 
 
 <details>
       <summary>No Startup.cs</summary>
