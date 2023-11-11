@@ -95,9 +95,6 @@ Incoming changes I noticed during this project are:
       <p>
       &emsp;&emsp;- <a href="https://www.youtube.com/watch?v=vdhFw1VSowg&ab_channel=IAmTimCorey">Handling Program.cs Without Startup.cs</a>
       </p>
-      <p>
-      &emsp;&emsp;- <a href="https://www.youtube.com/watch?v=aSNqqZqYTk4&ab_channel=IAmTimCorey"> Why .NET 6 promotes better programming practices</a>
-      </p>
       
 </details>
 
