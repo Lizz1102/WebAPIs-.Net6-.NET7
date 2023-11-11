@@ -21,5 +21,14 @@ namespace SportsShop.API.Controllers
         {
             return Ok(_context.Products.ToArray());
         }
+
+        [HttpGet("{id}")]
+        //[Route("/api/products/{id}")]
+        //[Route("{id}")]
+        public ActionResult GetProduct(int id)
+        {
+            var product = _context.Products.Find(id);
+            return Ok(product);
+        }
     }
 }
