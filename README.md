@@ -1,5 +1,7 @@
 # WebAPIs: .NET Core(.Net6,.NET7)
-Learning and revisiting some advanced and fundamental concepts of .NET Core Web APIs. Exploring new features of Web APIs with C# in .NET Core (.NET 6 and .NET 7 SDK versions).  
+- Learning and revisiting some advanced and fundamental concepts of .NET Core Web APIs.
+- Exploring new features of Web APIs with C# in .NET Core (.NET 6 and .NET 7 SDK versions).
+- How to migrate .Net Core 5 API projects to .Net 6 and 7 
 
 
 ## Notes 
