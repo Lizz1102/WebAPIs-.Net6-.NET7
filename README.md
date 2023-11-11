@@ -87,10 +87,10 @@ However, knowing the incoming changes can be beneficial if we need to migrate .N
       &emsp;&emsp;- <a href="https://andrewlock.net/exploring-dotnet-6-part-12-upgrading-a-dotnet-5-startup-based-app-to-dotnet-6/">Upgrading a .NET 5 "Startup-based" app to .NET 6</a>
       </p>
       <p>
-      &emsp;&emsp;- <a href="https://www.youtube.com/watch?v=aSNqqZqYTk4&ab_channel=IAmTimCorey"> Why .NET 6 promotes better programming practices</a>
+      &emsp;&emsp;- <a href="https://www.youtube.com/watch?v=vdhFw1VSowg&ab_channel=IAmTimCorey">Handling Program.cs Without Startup.cs</a>
       </p>
       <p>
-      &emsp;&emsp;- <a href="https://www.youtube.com/watch?v=vdhFw1VSowg&ab_channel=IAmTimCorey">Handling Program.cs Without Startup.cs</a>
+      &emsp;&emsp;- <a href="https://www.youtube.com/watch?v=aSNqqZqYTk4&ab_channel=IAmTimCorey"> Why .NET 6 promotes better programming practices</a>
       </p>
       
 </details>
