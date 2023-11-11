@@ -7,7 +7,7 @@
 ## Notes 
 
 
-Keeping the references/notes for myself, or anyone who wants to revisit related concepts.
+Keeping the notes/resources for myself, or anyone who wants to revisit/delve into related concepts.
 
 
 <details>
