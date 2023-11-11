@@ -137,7 +137,9 @@ Incoming changes I noticed during this project are:
 
 
 - [ ] Add Endpoint Specifications  
-- [ ] Add screenshots/demo  
+- [ ] Add screenshots/demo
+- [ ] Refactor (Extract interfaces, apply IoC etc) 
+- [ ] Keep adding more related concepts on Notes for future reference(best practices etc)    
 - [ ] Summarize key concepts developers should know before diving into web API development
 - [ ] Future Improvements? 
 
