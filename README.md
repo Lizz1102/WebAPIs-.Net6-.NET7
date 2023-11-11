@@ -74,6 +74,28 @@ Keeping the references/notes for myself, or anyone who wants to revisit related 
 ## Observations: Improvements/What's New in .NET 6
 
 
+There are no radical changes in .Net 6 structurally, most changes are focused on the simplicity and speed of building the code.
+However, knowing the incoming changes can be beneficial if we need to migrate .Net 5 Core projects to .Net 6.
+
+
+<details>
+      <summary>No Startup.cs</summary>
+      <p>
+      &emsp;&emsp;- In .NET 6, Microsoft has unified Startup.cs and Program.cs into one Program.cs. Now registering middleware, services and adding DbContext etc can be done in the Program.cs file. 
+      </p>
+      <p>
+      &emsp;&emsp;- <a href="https://andrewlock.net/exploring-dotnet-6-part-12-upgrading-a-dotnet-5-startup-based-app-to-dotnet-6/">Upgrading a .NET 5 "Startup-based" app to .NET 6</a>
+      </p>
+      <p>
+      &emsp;&emsp;- <a href="https://www.youtube.com/watch?v=aSNqqZqYTk4&ab_channel=IAmTimCorey"> Why .NET 6 promotes better programming practices</a>
+      </p>
+      <p>
+      &emsp;&emsp;- <a href="https://www.youtube.com/watch?v=vdhFw1VSowg&ab_channel=IAmTimCorey">Handling Program.cs Without Startup.cs</a>
+      </p>
+      
+</details>
+
+
 <details>
       <summary>HTTP/3 Support</summary>
       <p>
