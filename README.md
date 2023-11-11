@@ -1,7 +1,7 @@
 # WebAPIs: .NET Core(.Net6,.NET7)
 - Learning and revisiting some advanced and fundamental concepts of .NET Core Web APIs.
 - Exploring new features of Web APIs with C# in .NET Core (.NET 6 and .NET 7 SDK versions).
-- How to migrate .Net Core 5 API projects to .Net 6 and 7 
+- How to migrate .NET Core 5 API projects to .NET 6 and 7 
 
 
 ## Notes 
@@ -76,8 +76,8 @@ Keeping the references/notes for myself, or anyone who wants to revisit related 
 ## Observations: Incoming Changes in .NET 6
 
 
-There are no radical changes in .Net 6 structurally, most changes are focused on the simplicity and speed of building the code.
-However, knowing the incoming changes can be beneficial if we need to upgrade .Net 5 Core projects to .Net 6.
+There are no radical changes in .NET 6 structurally, most changes are focused on the simplicity and speed of building the code.
+However, knowing the incoming changes can be beneficial if we need to upgrade .NET 5 Core projects to .NET 6.
 
 
 - [Migrate from ASP.NET Core 5.0 to 6.0](https://learn.microsoft.com/en-us/aspnet/core/migration/50-to-60?view=aspnetcore-7.0&tabs=visual-studio)
