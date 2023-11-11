@@ -75,7 +75,7 @@ Keeping the references/notes for myself, or anyone who wants to revisit related 
 
 
 There are no radical changes in .Net 6 structurally, most changes are focused on the simplicity and speed of building the code.
-However, knowing the incoming changes can be beneficial if we need to migrate .Net 5 Core projects to .Net 6.
+However, knowing the incoming changes can be beneficial if we need to upgrade .Net 5 Core projects to .Net 6.
 
 
 <details>
