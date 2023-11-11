@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using SportsShop.API.Models;
 
 namespace SportsShop.API.Controllers
@@ -17,17 +18,17 @@ namespace SportsShop.API.Controllers
         }
 
         [HttpGet]
-        public ActionResult GetAllProducts()
+        public async Task<ActionResult> GetAllProducts()
         {
-            return Ok(_context.Products.ToArray());
+            return Ok(await _context.Products.ToArrayAsync());
         }
 
         [HttpGet("{id}")]
         //[Route("/api/products/{id}")]
         //[Route("{id}")]
-        public ActionResult GetProduct(int id)
+        public async Task<ActionResult> GetProduct(int id)
         {
-            var product = _context.Products.Find(id);
+            var product = await _context.Products.FindAsync(id);
 
             if (product == null)
             {
