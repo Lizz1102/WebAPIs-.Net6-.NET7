@@ -66,6 +66,14 @@ Keeping the notes/resources for myself, or anyone who wants to revisit/delve int
 
 
 <details>
+      <summary>Model Binding</summary>
+      <p>
+           Add Content
+      </p>
+</details>
+
+
+<details>
       <summary>Title</summary>
       <p>
            Content 1 Content 1 Content 1 Content 1 Content 1
