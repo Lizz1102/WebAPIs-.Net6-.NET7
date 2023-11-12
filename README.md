@@ -153,7 +153,12 @@ Incoming changes I noticed during this project are:
 ## TODOs
 
 
-- [ ] Refactor to implement loose coupling, maintainability and scalability(IoC, Extract interfaces, etc)
+- [ ] Advanced data retrieval
+- [ ] Versioning APIs(Built-in support in Core)
+- [ ] Securing APIs(Enforcing HTTPS, token-based Authorization/Authentication)
+- [ ] ASP.NET Core Security
+- [ ] API Design(more RESTful, more predictable, more friendly to use) 
+- [ ] Refactor to implement loose coupling, maintainability, and scalability(IoC, Extract interfaces, etc)
 - [ ] Add Endpoint Specifications  
 - [ ] Add screenshots/demo
 - [ ] Keep adding notes on related concepts  
