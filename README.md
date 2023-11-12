@@ -1,8 +1,9 @@
 # WebAPIs: .NET Core(.Net6,.NET7)
-- Learning and revisiting some advanced and fundamental concepts of .NET Core Web APIs.
-- Exploring new features of Web APIs with C# in .NET Core (.NET 6 and .NET 7 SDK versions).
-- How to migrate .NET Core 5 API projects to .NET 6 and 7 
-
+- Exploring new features and incoming changes of .NET 6 and .NET 7 while building a Web API project with C#.
+- How to migrate .NET Core 5 API projects to .NET 6 and 7.
+- Revisiting some advanced and fundamental concepts of .NET Core Web APIs.
+- Best practices and standards to build Web APIs
+ 
 
 ## Notes 
 
@@ -144,6 +145,7 @@ Incoming changes I noticed during this project are:
 ## TODOs
 
 
+- [ ] Refactor to implement loose coupling, flexibility, maintainability, and scalability(IoC, Extract interfaces, etc)
 - [ ] Add Endpoint Specifications  
 - [ ] Add screenshots/demo
 - [ ] Keep adding notes on related concepts  
