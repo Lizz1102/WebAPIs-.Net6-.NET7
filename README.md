@@ -75,6 +75,14 @@ Keeping the notes/resources for myself, or anyone who wants to revisit/delve int
 
 
 <details>
+      <summary>Model Validation</summary>
+      <p>
+           TODO: Add Content Add notes
+      </p>
+</details>
+
+
+<details>
       <summary>Title</summary>
       <p>
            Content 1 Content 1 Content 1 Content 1 Content 1
