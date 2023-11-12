@@ -145,7 +145,7 @@ Incoming changes I noticed during this project are:
 ## TODOs
 
 
-- [ ] Refactor to implement loose coupling, flexibility, maintainability, and scalability(IoC, Extract interfaces, etc)
+- [ ] Refactor to implement loose coupling, maintainability and scalability(IoC, Extract interfaces, etc)
 - [ ] Add Endpoint Specifications  
 - [ ] Add screenshots/demo
 - [ ] Keep adding notes on related concepts  
