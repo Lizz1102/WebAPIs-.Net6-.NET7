@@ -1,5 +1,5 @@
 # WebAPIs: .NET Core(.Net6,.NET7)
-- Exploring new features and incoming changes of .NET 6 and .NET 7 while building Web API projects with C#.
+- Building Web API projects with C# and exploring new features and incoming changes of .NET 6 and .NET 7.
 - How to migrate .NET Core 5 API projects to .NET 6 and 7.
 - Revisiting some advanced and fundamental concepts of .NET Core Web APIs.
 - Best practices and standards to build Web APIs.
