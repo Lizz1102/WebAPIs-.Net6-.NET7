@@ -66,6 +66,14 @@ Keeping the notes/resources for myself, or anyone who wants to revisit/delve int
 
 
 <details>
+      <summary>Model Binding</summary>
+      <p>
+           TODO: Add Content 1 Content 1 Content 1 Content 1 Content 1
+      </p>
+</details>
+
+
+<details>
       <summary>Title</summary>
       <p>
            Content 1 Content 1 Content 1 Content 1 Content 1
@@ -137,7 +145,8 @@ Incoming changes I noticed during this project are:
 
 
 - [ ] Add Endpoint Specifications  
-- [ ] Add screenshots/demo  
+- [ ] Add screenshots/demo
+- [ ] Keep adding notes on related concepts  
 - [ ] Summarize key concepts developers should know before diving into web API development
 - [ ] Future Improvements? 
 
