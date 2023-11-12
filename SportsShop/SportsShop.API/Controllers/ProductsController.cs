@@ -41,6 +41,10 @@ namespace SportsShop.API.Controllers
 
         public async Task<ActionResult<Product>> PostProduct(Product product) 
         { 
+            //if(!ModelState.IsValid)
+            //{
+            //    return BadRequest();
+            //}
             _context.Products.Add(product);
             await _context.SaveChangesAsync();
 
