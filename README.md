@@ -155,9 +155,9 @@ Incoming changes I noticed during this project are:
 ## .NET 8 
 
 
-- [.NET 8 and C# 12 Launch - What is New, What is Improved, and What is Supported](https://www.youtube.com/watch?v=mT70wtkE7DI&ab_channel=IAmTimCorey)
 - [What's new in .NET 8](https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-8) 
-
+- Things we should look out for when upgrading - [.NET 8 and C# 12 Launch - What is New, What is Improved, and What is Supported](https://www.youtube.com/watch?v=mT70wtkE7DI&ab_channel=IAmTimCorey)
+  
 
 ## TODOs
 
