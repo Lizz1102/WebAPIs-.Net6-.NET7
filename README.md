@@ -199,7 +199,7 @@ Note to self: In summary, continually enhance your skills by exploring various a
 - [ ] Versioning APIs(Built-in support in Core)
 - [ ] Securing APIs(Enforcing HTTPS, token-based Authorization/Authentication)
 - [ ] ASP.NET Core Security
-- [ ] API Design(more RESTful, more predictable, more friendly to use) 
+- [ ] API Design(Clean Architecture, REST+ Small Onion etc) 
 - [ ] Refactor to implement loose coupling and maintainability(SOLID, DRY, IoC, Extract interfaces, etc)
 - [ ] Scalability
 - [ ] Add Endpoint Specifications  
