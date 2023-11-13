@@ -173,7 +173,10 @@ Incoming changes I noticed during this project are:
   
 
 
-## Tools and Concepts I Need to Know More
+## Future Improvements: Improvements + Tools and Concepts I Need to Know More
+
+
+This section contains information about future improvements, additional tools, and concepts I need to explore further.
 
 
 Note to self: Avoid analysis paralysis. Choose one architecture and create rapidly. However, many times you'll start working in a team and need to understand their standards, practices, and architecture and work from there. 
@@ -209,7 +212,7 @@ In summary, continually enhance your skills by exploring various architectures a
 - [ ] Add screenshots/demo
 - [ ] Keep adding notes on related concepts  
 - [ ] Summarize key concepts developers should know before diving into web API development
-- [ ] Future Improvements() 
+- [x] Add Future Improvements Section - [Link to Future Improvements Section](#future-improvements-improvements--tools-and-concepts-i-need-to-know-more) 
 
 
 ## Credits
