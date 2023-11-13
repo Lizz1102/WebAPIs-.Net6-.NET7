@@ -172,6 +172,26 @@ Incoming changes I noticed during this project are:
 - Things we should look out for when upgrading - [.NET 8 and C# 12 Launch - What is New, What is Improved, and What is Supported](https://www.youtube.com/watch?v=mT70wtkE7DI&ab_channel=IAmTimCorey)
   
 
+
+## Tools and Concepts I Need to Know More
+
+
+Note to self: In summary, continually enhance your skills by exploring various architectures and tools through small projects. This approach ensures that when working with a team, you can swiftly adapt to their standards and practices, facilitating quick decision-making for your new projects. Remember to avoid analysis paralysis, choose an architecture, and iterate rapidly.
+
+
+- Dapper
+- R&D and decide - [Clean Architecture + CQRS + DDD](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api)
+- [TDD vs BDD vs DDD: Which One Should You Choose?](https://mobilelive.medium.com/tdd-vs-bdd-vs-ddd-which-one-should-you-choose-e562e313f955#:~:text=Here%20are%20the%20key%20differences,uses%20a%20domain%2Dspecific%20language.)
+- [CQRS with non-generic Repositories and Units of Work](https://radekmaziarka.pl/2017/08/19/cqrs-first-step-split-to-commands-and-queries/)
+- Repository pattern(Abstract EF DbContext with Repository) 
+- API Controller -> Service -> Repository
+- Clean/onion architecture - [Reference project 1](https://github.com/iammukeshm/CleanArchitecture.WebApi) [Reference project 2](https://github.com/juldhais/CleanArchitecture) [Reference project 3](https://github.com/ardalis/CleanArchitecture) [Reference project 4](https://github.com/jasontaylordev/CleanArchitecture)
+- https://abp.io/- 
+- REST and small Onion, with a thin controller
+- Thin controllers are the way to go. You want as little code in the controller as possible. It makes it easier to have tests that cover all your code
+- DTO - In a monolithic setup to learn minimum best practices I would set up the presentation layer, domain layer, and data access layer, using DTO to avoid hard coupling between the presentation layer and data access layer
+
+  
 ## TODOs
 
 
@@ -186,7 +206,7 @@ Incoming changes I noticed during this project are:
 - [ ] Add screenshots/demo
 - [ ] Keep adding notes on related concepts  
 - [ ] Summarize key concepts developers should know before diving into web API development
-- [ ] Future Improvements? 
+- [ ] Future Improvements() 
 
 
 ## Credits
