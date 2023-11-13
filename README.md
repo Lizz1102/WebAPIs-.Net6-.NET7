@@ -209,9 +209,7 @@ In summary, continually enhance your skills by exploring various architectures a
 - [ ] Refactor to implement loose coupling and maintainability(SOLID, DRY, IoC, Extract interfaces, etc)
 - [ ] Scalability
 - [ ] Add Endpoint Specifications  
-- [ ] Add screenshots/demo
-- [ ] Keep adding notes on related concepts  
-- [ ] Summarize key concepts developers should know before diving into web API development
+- [ ] Add screenshots/demos of projects  
 - [x] Add Future Improvements Section - [Link to Future Improvements Section](#future-improvements-improvements--tools-and-concepts-i-need-to-know-more) 
 
 
