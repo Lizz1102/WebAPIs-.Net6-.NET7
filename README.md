@@ -2,8 +2,8 @@
 - Building Web API projects with C# and exploring new features and incoming changes of .NET 6, .NET 7, and .NET 8.
 - How to upgrade .NET Core 5 APIs to later versions of .NET.
 - Revisiting some advanced and fundamental concepts of .NET Core Web APIs.
-- API Design best practices and standards to build Web APIs.
-- This repo is basically my personal references and notes for API design. 
+- API Design - patterns, best practices, and standards.
+- This repo is my personal reference and notes for building and designing performant and scalable APIs. 
  
 
 ## API Design: Guidelines and Best Practices 
