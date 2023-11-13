@@ -1,4 +1,4 @@
-# WebAPIs: .NET Core(.Net6,.NET7)
+# WebAPIs: .NET Core(.Net6, .NET7)
 - Building Web API projects with C# and exploring new features and incoming changes of .NET 6, .NET 7, and .NET 8.
 - How to upgrade .NET Core 5 APIs to later versions of .NET.
 - Revisiting some advanced and fundamental concepts of .NET Core Web APIs.
