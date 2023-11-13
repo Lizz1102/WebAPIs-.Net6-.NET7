@@ -176,7 +176,10 @@ Incoming changes I noticed during this project are:
 ## Tools and Concepts I Need to Know More
 
 
-Note to self: In summary, continually enhance your skills by exploring various architectures and tools through small projects. This approach ensures that when working with a team, you can swiftly adapt to their standards and practices, facilitating quick decision-making for your new projects. Remember to avoid analysis paralysis, choose an architecture, and iterate rapidly.
+Note to self: Avoid analysis paralysis. Choose one architecture and create rapidly. However, many times you'll start working in a team and need to understand their standards, practices, and architecture and work from there. 
+
+
+In summary, continually enhance your skills by exploring various architectures and tools through small projects. This approach ensures that when working with a team, you can swiftly adapt to their standards and practices, facilitating quick decision-making for your new projects. Remember to avoid analysis paralysis, choose an architecture, and iterate rapidly.
 
 
 - Dapper
