@@ -6,6 +6,19 @@
 - This repo is basically my personal references and notes for API design. 
  
 
+## API Design: Guidelines and Best Practices 
+
+
+**Architecture/Design Documents**
+- [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md)
+- [RESTful web API design](https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design)
+- [Web API implementation](https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-implementation)
+
+
+  **API Reference**
+  - [Stripe](https://stripe.com/docs/api)
+  - [Twitter](https://developer.twitter.com/en/docs/api-reference-index)
+  - [Swagger Petstore Demo](https://petstore.swagger.io/)
 ## Notes 
 
 
@@ -167,7 +180,8 @@ Incoming changes I noticed during this project are:
 - [ ] Securing APIs(Enforcing HTTPS, token-based Authorization/Authentication)
 - [ ] ASP.NET Core Security
 - [ ] API Design(more RESTful, more predictable, more friendly to use) 
-- [ ] Refactor to implement loose coupling, maintainability, and scalability(IoC, Extract interfaces, etc)
+- [ ] Refactor to implement loose coupling and maintainability(SOLID, DRY, IoC, Extract interfaces, etc)
+- [ ] Scalability
 - [ ] Add Endpoint Specifications  
 - [ ] Add screenshots/demo
 - [ ] Keep adding notes on related concepts  
