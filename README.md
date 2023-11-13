@@ -1,8 +1,9 @@
 # WebAPIs: .NET Core(.Net6,.NET7)
 - Building Web API projects with C# and exploring new features and incoming changes of .NET 6, .NET 7, and .NET 8.
-- How to migrate .NET Core 5 API projects to .NET 6 and 7.
+- How to upgrade .NET Core 5 APIs to later versions of .NET.
 - Revisiting some advanced and fundamental concepts of .NET Core Web APIs.
 - API Design best practices and standards to build Web APIs.
+- This repo is basically my personal references and notes for API design. 
  
 
 ## Notes 
@@ -148,6 +149,14 @@ Incoming changes I noticed during this project are:
            Content 1 Content 1 Content 1 Content 1 Content 1
       </p>
 </details>
+
+
+
+## .NET 8 
+
+
+- [.NET 8 and C# 12 Launch - What is New, What is Improved, and What is Supported](https://www.youtube.com/watch?v=mT70wtkE7DI&ab_channel=IAmTimCorey)
+- [What's new in .NET 8](https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-8) 
 
 
 ## TODOs
