@@ -6,7 +6,13 @@
 - This repo is my personal reference and notes for building and designing performant and scalable APIs.
 
 
-## Filtering Items - Minimum and/or Maximum Price
+## Pagination
+
+
+![image](https://github.com/Lizz1102/WebAPIsWith.NetCore/assets/15815335/c72d6cd1-e0b8-4524-a89d-ba4f87dec9b5)
+
+
+## Filtering Items Based on Minimum and/or Maximum Price
 
 
 ![image](https://github.com/Lizz1102/WebAPIsWith.NetCore/assets/15815335/528cf6f6-9843-4872-b0bb-58cd67188a5c)
