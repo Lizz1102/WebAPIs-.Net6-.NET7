@@ -227,7 +227,12 @@ In summary, continually enhance your skills by exploring various architectures a
 - [ ] Refactor to implement loose coupling and maintainability(SOLID, DRY, IoC, Extract interfaces, etc)
 - [ ] Scalability
 - [ ] Add Endpoint Specifications  
-- [ ] Add screenshots/demos of projects  
+- [ ] Add screenshots/demos of projects
+- [ ] Make Testable
+- [ ] Make Scalable
+- [ ] Deploy?
+- [ ] Replace in-memory database with RDBMS
+- [ ] Present project - agenda? target audience?
 - [x] Add Future Improvements Section - [Link to Future Improvements Section](#future-improvements-improvements--tools-and-concepts-i-need-to-know-more) 
 
 
