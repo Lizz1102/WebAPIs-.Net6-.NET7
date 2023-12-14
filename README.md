@@ -101,7 +101,11 @@ Keeping the notes/resources for myself, or anyone who wants to revisit/delve int
   
   Features implemented:
   
-  - **Filtering:** Uses URIs to create a new resource.
+  - **Pagination**
+  - **Filtering**
+  - **Searching items**
+  - **Sorting Items**
+  - **Advanced Search**  
 </details>
 
 
