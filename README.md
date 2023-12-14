@@ -97,11 +97,13 @@ Keeping the notes/resources for myself, or anyone who wants to revisit/delve int
 
 
 <details>
-      <summary>Title</summary>
-      <p>
-           Content 1 Content 1 Content 1 Content 1 Content 1
-      </p>
+  <summary>Advanced Data Retrieval</summary>
+  
+  Features implemented:
+  
+  - **Filtering:** Uses URIs to create a new resource.
 </details>
+
 
   
 ## Observations: Incoming Changes in .NET 6
