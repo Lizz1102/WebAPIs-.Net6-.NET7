@@ -3,7 +3,13 @@
 - How to upgrade .NET Core 5 APIs to later versions of .NET.
 - Revisiting some advanced and fundamental concepts of .NET Core Web APIs.
 - API Design - patterns, best practices, and standards.
-- This repo is my personal reference and notes for building and designing performant and scalable APIs. 
+- This repo is my personal reference and notes for building and designing performant and scalable APIs.
+
+
+## Filtering Items - Minimum and/or Maximum Price
+
+
+![image](https://github.com/Lizz1102/WebAPIsWith.NetCore/assets/15815335/528cf6f6-9843-4872-b0bb-58cd67188a5c)
  
 
 ## API Design: Guidelines and Best Practices 
